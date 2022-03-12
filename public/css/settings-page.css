@@ -1,0 +1,10 @@
+.avatar {
+	border-radius: 50%;
+    overflow: hidden;
+    border: #533f3f solid 3px;
+    margin: 5px;
+    max-width: 200px;
+}
+.avatar img{
+	width: 100%;
+}
